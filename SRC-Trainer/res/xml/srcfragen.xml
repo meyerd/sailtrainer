@@ -420,7 +420,7 @@
   </question>
   <question id='4233' reference='60'>
     <text>Der mit einem DSC-Gerät aufgenommene Notalarm wird …</text>
-    <correct>automatische gespeichert.</correct>
+    <correct>automatisch gespeichert.</correct>
     <incorrect>manuell gespeichert.</incorrect>
     <incorrect>gespeichert, wenn im Speicher noch genügend Platz ist.</incorrect>
     <incorrect>nicht gespeichert, sondern ausgedruckt.</incorrect>
