@@ -393,7 +393,7 @@
   <question id='4093' reference='55'>
     <text>Welche Verkehrskreise werden im Binnenschifffahrtsfunk betrieben?</text>
     <correct>Schiff-Schiff, Nautische Information, Schiff - Hafenbehörde, Funkverkehr an Bord</correct>
-    <incorrect>Schiff-Schiff, Schiff - Verkehrszentrale, Schiff - Hafenbehörd, Funkverkehr an Bord</incorrect>
+    <incorrect>Schiff-Schiff, Schiff - Verkehrszentrale, Schiff - Hafenbehörde, Funkverkehr an Bord</incorrect>
     <incorrect>Schiff-Schiff, Nautische Information, Schiff - Hafenbehörde, Schiff - Verkehrsposten</incorrect>
     <incorrect>Schiff-Schiff, Nautische Information, Schiff - Hafenbehörde, Schiff - Landfunkstelle</incorrect>
   </question>
